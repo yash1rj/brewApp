@@ -1,2 +1,2 @@
-# breweryApp
+# brewApp
 A simple Angular application
